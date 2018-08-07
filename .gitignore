@@ -1,0 +1,6 @@
+/tmp
+/obj
+/lib
+mqtt_server.exe
+run.sh
+server.exe
